@@ -118,6 +118,7 @@ Modern interactive gym website
 - Fully responsive  
 
 ![GitHub Stats](https://github-readme-stats-sable-eight-18.vercel.app/api?username=Yashkannojiya1606&show_icons=true&theme=radical&hide=issues,prs)
+![GitHub Streak](https://streak-stats.demolab.com?user=Yashkannojiya1606&theme=radical)
 
 ## 🐍 Contribution Snake
 

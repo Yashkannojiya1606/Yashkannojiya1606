@@ -117,19 +117,15 @@ Modern interactive gym website
 - Glassmorphism & Neon UI  
 - Fully responsive  
 
----
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashkannojiya1606&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashkannojiya1606&layout=compact&theme=radical)
 
-
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Yashkannojiya1606/Yashkannojiya1606/blob/output/github-contribution-grid-snake.svg)
-
----
+![Snake animation](https://raw.githubusercontent.com/Yashkannojiya1606/Yashkannojiya1606/output/github-contribution-grid-snake.svg)
 
 ## 📫 Connect With Me
 

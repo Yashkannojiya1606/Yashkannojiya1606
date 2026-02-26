@@ -117,8 +117,20 @@ Modern interactive gym website
 - Glassmorphism & Neon UI  
 - Fully responsive  
 
-![GitHub Stats](https://github-readme-stats-sable-eight-18.vercel.app/api?username=Yashkannojiya1606&show_icons=true&theme=radical&hide=issues,prs)
-![GitHub Streak](https://streak-stats.demolab.com?user=Yashkannojiya1606&theme=radical)
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats-sable-eight-18.vercel.app/api?username=Yashkannojiya1606&show_icons=true&theme=radical&hide=issues,prs&border_radius=12" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Yashkannojiya1606&theme=radical&border_radius=12" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sable-eight-18.vercel.app/api/top-langs/?username=Yashkannojiya1606&layout=compact&theme=radical&border_radius=12" height="160" />
+</p>
+
+---
 
 ## 🐍 Contribution Snake
 

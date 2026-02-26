@@ -119,7 +119,9 @@ Modern interactive gym website
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashkannojiya1606)
+![GitHub Stats](https://github-readme-stats-sable-eight-18.vercel.app/api?username=Yashkannojiya1606&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats-sable-eight-18.vercel.app/api/top-langs/?username=Yashkannojiya1606&layout=compact&theme=radical)
 
 ## 🐍 Contribution Snake
 

@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: Yashkannojia1606
+          github_user_name: Yashkannojiya1606
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Push snake
